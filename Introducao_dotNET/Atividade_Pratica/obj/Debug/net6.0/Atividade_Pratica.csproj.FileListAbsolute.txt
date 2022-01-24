@@ -1,0 +1,15 @@
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\bin\Debug\net6.0\Atividade_Pratica.exe
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\bin\Debug\net6.0\Atividade_Pratica.deps.json
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\bin\Debug\net6.0\Atividade_Pratica.runtimeconfig.json
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\bin\Debug\net6.0\Atividade_Pratica.dll
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\bin\Debug\net6.0\ref\Atividade_Pratica.dll
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\bin\Debug\net6.0\Atividade_Pratica.pdb
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.csproj.AssemblyReference.cache
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.AssemblyInfoInputs.cache
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.AssemblyInfo.cs
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.csproj.CoreCompileInputs.cache
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.dll
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\ref\Atividade_Pratica.dll
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.pdb
+C:\Users\adati\Documents\GitHub\DIO---Curso-de-dotNet\Introducao_dotNET\Atividade_Pratica\obj\Debug\net6.0\Atividade_Pratica.genruntimeconfig.cache
