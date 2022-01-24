@@ -67,7 +67,6 @@ namespace Atividade_Pratica
             Console.WriteLine("3-Calcular média geral");
             Console.WriteLine("X-Sair");
             Console.WriteLine();
-
         
             string? opcaoUsuario = Console.ReadLine();
             Console.WriteLine();
