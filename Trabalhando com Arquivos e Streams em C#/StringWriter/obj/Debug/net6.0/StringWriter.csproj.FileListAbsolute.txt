@@ -1,0 +1,15 @@
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net6.0/StringWriter
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net6.0/StringWriter.deps.json
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net6.0/StringWriter.runtimeconfig.json
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net6.0/StringWriter.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net6.0/ref/StringWriter.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net6.0/StringWriter.pdb
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.csproj.AssemblyReference.cache
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.AssemblyInfoInputs.cache
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.AssemblyInfo.cs
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.csproj.CoreCompileInputs.cache
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/ref/StringWriter.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.pdb
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net6.0/StringWriter.genruntimeconfig.cache
