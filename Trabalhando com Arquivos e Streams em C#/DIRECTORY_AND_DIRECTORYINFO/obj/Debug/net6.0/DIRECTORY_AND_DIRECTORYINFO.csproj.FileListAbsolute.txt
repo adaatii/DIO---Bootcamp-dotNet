@@ -1,0 +1,15 @@
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/bin/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/bin/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.deps.json
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/bin/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.runtimeconfig.json
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/bin/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/bin/Debug/net6.0/ref/DIRECTORY_AND_DIRECTORYINFO.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/bin/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.pdb
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.csproj.AssemblyReference.cache
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.GeneratedMSBuildEditorConfig.editorconfig
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.AssemblyInfoInputs.cache
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.AssemblyInfo.cs
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.csproj.CoreCompileInputs.cache
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/ref/DIRECTORY_AND_DIRECTORYINFO.dll
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.pdb
+/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/Debug/net6.0/DIRECTORY_AND_DIRECTORYINFO.genruntimeconfig.cache

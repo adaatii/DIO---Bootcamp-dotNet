@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/FILE_AND_FILEINFO/File_and_FileInfo.csproj",
-      "projectName": "File_and_FileInfo",
-      "projectPath": "/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/FILE_AND_FILEINFO/File_and_FileInfo.csproj",
+      "projectUniqueName": "/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/DIRECTORY_AND_DIRECTORYINFO.csproj",
+      "projectName": "DIRECTORY_AND_DIRECTORYINFO",
+      "projectPath": "/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/DIRECTORY_AND_DIRECTORYINFO.csproj",
       "packagesPath": "/home/adaatii/.nuget/packages/",
-      "outputPath": "/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/FILE_AND_FILEINFO/obj/",
+      "outputPath": "/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/adaatii/.nuget/NuGet/NuGet.Config"
