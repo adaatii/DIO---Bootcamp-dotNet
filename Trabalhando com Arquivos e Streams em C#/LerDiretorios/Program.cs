@@ -1,8 +1,23 @@
 ﻿var path = @"caminho do diretório";
 
-LerDiretorios(path);
+/* LerDiretorios(path); */
+LerArquivos(path);
 Console.WriteLine("Pressione enter para finalizar");
 Console.ReadLine();
+
+static void LerArquivos(string path)
+{
+    var arquivos = Directory.GetFiles(path, "*", SearchOption.AllDirectories);
+    foreach (var arquivo in arquivos)
+    {
+        var fileInfo = new FileInfo(arquivo);
+        Console.WriteLine($"[Nome]: {fileInfo.Name}");
+        Console.WriteLine($"[Tamanho]: {fileInfo.Length}");
+        Console.WriteLine($"[Ultimo acesso ]: {fileInfo.LastAccessTime}");
+        Console.WriteLine($"[Pasta]: {fileInfo.DirectoryName}");
+        Console.WriteLine("--------------");
+    }
+}
 
 static void LerDiretorios(string path)
 {

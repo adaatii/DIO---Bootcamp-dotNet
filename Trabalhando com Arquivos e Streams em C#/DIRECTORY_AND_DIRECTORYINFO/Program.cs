@@ -1,12 +1,14 @@
 ﻿using System.IO;
 
 CriarDiretoriosGlobo();
-CriarArquivo();
+/*CriarArquivo();
 var origem = Path.Combine(Environment.CurrentDirectory, "brasil.txt");
 var destino = Path.Combine(Environment.CurrentDirectory, "globo", "América do Sul", "Argentina", "argentina.txt");
 
 //MoverArquivo(origem, destino);
-CopiarArquivo(origem,destino);
+CopiarArquivo(origem,destino);*/
+
+
 
 static void CopiarArquivo(string pathOrigem, string pathDestino)
 {
