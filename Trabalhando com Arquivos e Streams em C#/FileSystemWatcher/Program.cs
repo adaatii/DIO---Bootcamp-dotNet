@@ -1,4 +1,4 @@
-﻿var path = @"/home/adaatii/Documentos/Github/DIO---Curso-de-dotNet/Trabalhando com Arquivos e Streams em C#/DIRECTORY_AND_DIRECTORYINFO/globo";
+﻿var path = @"caminho do diretório";
 
 using var fsw = new FileSystemWatcher(path);
 fsw.Created += OnCreated;
