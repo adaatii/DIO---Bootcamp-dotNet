@@ -6,20 +6,27 @@ namespace POO
     {
         static void Main(string[] args)
         {
-            Professor p1 = new Professor();
-            p1.Salario = 2000;            
-            p1.Nome = "Bob";
-            p1.Idade = 20;
-
-            p1.Apresentar();
 
 
-            Aluno p2 = new Aluno();
-            p2.Nome = "Bob";
-            p2.Idade = 20;
-            p2.Nota = 10;
+            Calculadora calc = new Calculadora();
+            System.Console.WriteLine("Resultado da primeira soma: " + calc.Somar(10, 10));
+            System.Console.WriteLine("Resultado da segunda soma: " + calc.Somar(10, 10, 10));
 
-            p2.Apresentar();
+
+            // Professor p1 = new Professor();
+            // p1.Salario = 2000;            
+            // p1.Nome = "Bob";
+            // p1.Idade = 20;
+
+            // p1.Apresentar();
+
+
+            // Aluno p2 = new Aluno();
+            // p2.Nome = "Bob";
+            // p2.Idade = 20;
+            // p2.Nota = 10;
+
+            // p2.Apresentar();
 
 
 
