@@ -1,4 +1,5 @@
-﻿using POO.Models;
+﻿using POO.Interfaces;
+using POO.Models;
 
 namespace POO
 {
@@ -6,10 +7,12 @@ namespace POO
     {
         static void Main(string[] args)
         {
+            ICalculadora calc = new Calculadora();
+            System.Console.WriteLine(calc.Somar(10, 20));
 
-            Corrente c = new Corrente();
-            c.Creditar(100);
-            c.ExibirSaldo();
+            // Corrente c = new Corrente();
+            // c.Creditar(100);
+            // c.ExibirSaldo();
           
             // Calculadora calc = new Calculadora();
             // System.Console.WriteLine("Resultado da primeira soma: " + calc.Somar(10, 10));
