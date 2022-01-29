@@ -1,4 +1,6 @@
-﻿using ExemploColecoes.helper;
+﻿using System.Collections.Generic;
+using ExemploColecoes.helper;
+
 
 namespace Colecoes
 {
@@ -6,20 +8,39 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
+            OperacoesLista opLista = new OperacoesLista();
+            List<string> estados = new List<string>();
+            string[] estadosArray = new string[2] {"SP", "MT"};
 
-            OperacoesArray op = new OperacoesArray();
-            int[] array = new int[5] {6, 3, 1, 9, 10};
-            int[] arrayCopia = new int[10];   
-            string[] arrayDeString = op.ConverterArrayString(array);      
+            estados.Add("SP");
+            estados.Add("MG");
+            estados.Add("BA");
+
+            System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
+
+            opLista.ImprimirListaString(estados);
+
+            // System.Console.WriteLine($"Removendo o elemento");
+            // estados.Remove("MG");
+            // estados.AddRange(estadosArray);
+            estados.Insert(1, "RJ");
+
+            opLista.ImprimirListaString(estados);
+
+
+            // OperacoesArray op = new OperacoesArray();
+            // int[] array = new int[5] {6, 3, 1, 9, 10};
+            // int[] arrayCopia = new int[10];   
+            // string[] arrayDeString = op.ConverterArrayString(array);      
 
             //int valorProcurado = 9;
 
-            System.Console.WriteLine($"Capacidade atual: {array.Length}");
+            // System.Console.WriteLine($"Capacidade atual: {array.Length}");
 
-            op.RedimensionarArray(ref array, array.Length*2);
+            // op.RedimensionarArray(ref array, array.Length*2);
 
-            System.Console.WriteLine($"Capacidade atual após redimensionar: {array.Length}");
-             
+            // System.Console.WriteLine($"Capacidade atual após redimensionar: {array.Length}");
+
 
 
             // int indice = op.ObterIndice(array, valorProcurado);
@@ -32,7 +53,7 @@ namespace Colecoes
             // {
             //     System.Console.WriteLine("Valor não existente no array");
             // }
-            
+
             // int valorAchado = op.ObterValor(array, valorProcurado);
 
 
@@ -115,7 +136,7 @@ namespace Colecoes
             // {
             //     System.Console.WriteLine(arrayinteiros[i]);
             // }
-            
+
             // System.Console.WriteLine("Percorrendo array pelo foreach");
             // foreach (var item in arrayinteiros)
             // {
